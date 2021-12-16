@@ -74,5 +74,7 @@ What question(s) are you trying to solve (or prove wrong)?
 What kind of data do you have and how do you treat different types?
 What’s missing from the data and how do you deal with it?
 Where are the outliers and why should you care about them?
-How can you add, change or remove features to get more out of your data?
+How can you add, change or remove features to get more out of your data?!
+[sklearn-ml-map](https://user-images.githubusercontent.com/83071381/146369319-b5c19cd0-4c2a-4954-8e55-77502560705a.png)
+
 
